@@ -123,15 +123,6 @@ Observe model evaluation
 
 Test on random samples
 
-📌 Folder Structure
-📁 Fake-News-Detection/
-│── fake_news_detection.ipynb
-│── Fake.csv
-│── True.csv
-│── README.md
-│── model.pkl (optional)
-│── vectorizer.pkl (optional)
-
 📈 Results
 
 Achieved 95%+ accuracy
